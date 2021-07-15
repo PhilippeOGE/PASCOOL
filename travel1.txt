@@ -2,3 +2,7 @@ pack list
 shoes
 camera
 t-shirts
+
+PIC NIC
+- forks
+-meat
