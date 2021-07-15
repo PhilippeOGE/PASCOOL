@@ -1,0 +1,4 @@
+pack list
+shoes
+camera
+t-shirts
